@@ -1,0 +1,1 @@
+console.log("Hello World do arquivo Javascript.js");

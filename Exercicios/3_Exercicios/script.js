@@ -1,0 +1,7 @@
+console.log(3 > 2)
+console.log(10 > 1000)
+console.log(20 == 5)
+console.log(35 == 35)
+console.log(7 != 8)
+console.log(4 <= 4)
+console.log("Vitor Hugo Marques de Moura" != "Vitor Hugo Marques de Moura")
